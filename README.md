@@ -13,7 +13,7 @@ Garden of Eve is an **e-commerce website** designed for plant lovers and gardeni
 ✔ **Interactive Elements** – Hover effects, modal pop-ups, and smooth animations  
 
 ## 🔧 Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript  
-- **UI/UX Design:** Figma (Wireframing & Prototyping)  
-- **Version Control:** Git & GitHub  
+- **UI Design:** Figma (Wireframing & Prototyping)  
+- **Typography & Color Theory:** Accessibility-compliant fonts and WCAG-approved color contrast  
+- **User Testing:** Conducted usability tests to refine user interactions 
 
